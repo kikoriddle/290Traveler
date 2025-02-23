@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Unity\\290Traveler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|D:\\Unity\\290Traveler\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15CDE9A1-6BED-3130-AEA1-B1D8FCB1C945}|Unity.AI.Navigation.Editor.csproj|d:\\unity\\290traveler\\library\\packagecache\\com.unity.ai.navigation@1.1.5\\editor\\navmeshassetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CDE9A1-6BED-3130-AEA1-B1D8FCB1C945}|Unity.AI.Navigation.Editor.csproj|solutionrelative:library\\packagecache\\com.unity.ai.navigation@1.1.5\\editor\\navmeshassetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|d:\\unity\\290traveler\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|d:\\unity\\290traveler\\assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|D:\\Unity\\290Traveler\\assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|solutionrelative:assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "NavMeshAssetManager.cs",
+              "DocumentMoniker": "D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
+              "ToolTip": "D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ai.navigation@1.1.5\\Editor\\NavMeshAssetManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T02:27:53.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "cameraController.cs",
               "DocumentMoniker": "D:\\Unity\\290Traveler\\Assets\\cameraController.cs",
               "RelativeDocumentMoniker": "Assets\\cameraController.cs",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "Assets\\cameraController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T06:15:25.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T06:15:25.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Unity\\290Traveler\\Assets\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
