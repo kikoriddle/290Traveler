@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|d:\\unity\\290traveler\\assets\\musemi - spring ambient vfx\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|D:\\Unity\\290Traveler\\assets\\musemi - spring ambient vfx\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|solutionrelative:assets\\musemi - spring ambient vfx\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Assets\\Musemi - Spring Ambient VFX\\Readme.txt",
               "ViewState": "AgIAAA0AAAAAAAAAAAAxwA4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-02-23T06:14:18.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T06:14:18.728Z"
             },
             {
               "$type": "Document",

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Unity\\290Traveler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{42488D91-53F1-D823-20C7-40B7A527D30C}|Unity.Postprocessing.Runtime.csproj|d:\\unity\\290traveler\\library\\packagecache\\com.unity.postprocessing@3.4.0\\postprocessing\\runtime\\effects\\ambientocclusion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42488D91-53F1-D823-20C7-40B7A527D30C}|Unity.Postprocessing.Runtime.csproj|solutionrelative:library\\packagecache\\com.unity.postprocessing@3.4.0\\postprocessing\\runtime\\effects\\ambientocclusion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|D:\\Unity\\290Traveler\\assets\\musemi - spring ambient vfx\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{081D91F8-8FA7-1966-E875-BFBF15C8F2C6}|Assembly-CSharp.csproj|solutionrelative:assets\\musemi - spring ambient vfx\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15CDE9A1-6BED-3130-AEA1-B1D8FCB1C945}|Unity.AI.Navigation.Editor.csproj|D:\\Unity\\290Traveler\\library\\packagecache\\com.unity.ai.navigation@1.1.5\\editor\\navmeshassetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\290Traveler\\Assets\\_MK\\MKToon\\Shader\\GradientSkybox.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_MK\\MKToon\\Shader\\GradientSkybox.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\290Traveler\\Assets\\Musemi - Spring Ambient VFX\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Musemi - Spring Ambient VFX\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +43,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TerrainLit.shader",
-              "DocumentMoniker": "D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
-              "ToolTip": "D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-02-23T07:03:31.915Z",
+              "Title": "AmbientOcclusion.cs",
+              "DocumentMoniker": "D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\AmbientOcclusion.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\AmbientOcclusion.cs",
+              "ToolTip": "D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\AmbientOcclusion.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\AmbientOcclusion.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAgwLwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:07:53.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TerrainLit.shader",
+              "DocumentMoniker": "D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "ToolTip": "D:\\Unity\\290Traveler\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-23T07:03:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Readme.txt",
               "DocumentMoniker": "D:\\Unity\\290Traveler\\Assets\\Musemi - Spring Ambient VFX\\Readme.txt",
               "RelativeDocumentMoniker": "Assets\\Musemi - Spring Ambient VFX\\Readme.txt",
